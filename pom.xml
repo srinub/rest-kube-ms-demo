@@ -5,7 +5,7 @@
 	<groupId>com.javabycode.springboot</groupId>
 	<artifactId>spring-boot-restful-web-services-example</artifactId>
 	<version>1.0.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>spring-boot-restful-web-services-example</name>
 
